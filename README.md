@@ -1,6 +1,7 @@
 # important-links
 
 Programing links
+
 https://github.com/mlvandijk/programming-links/blob/master/README.md
 
 Before you decide you have tested everything,
@@ -24,3 +25,8 @@ http://pragmatictestlabs.com/2018/03/05/coding-convention-selenium-java/
 http://automationtestingknowledge.blogspot.com/2014/04/test-automation-coding-standards.html
 
 https://www.benrady.com/2016/11/testing-with-fire.html
+
+
+Blogs to read
+
+https://ultimateqa.com/best-test-automation-blogs/?utm_sq=g8w4fllvcq&utm_source=LinkedIn&utm_medium=social&utm_campaign=NikolayAdvolodkin&utm_content=OwnBlogPosts
