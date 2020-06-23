@@ -30,3 +30,13 @@ https://www.benrady.com/2016/11/testing-with-fire.html
 Blogs to read
 
 https://ultimateqa.com/best-test-automation-blogs/?utm_sq=g8w4fllvcq&utm_source=LinkedIn&utm_medium=social&utm_campaign=NikolayAdvolodkin&utm_content=OwnBlogPosts
+
+
+Make testing easy
+
+https://pandao.github.io/editor.md/en.html
+https://pandao.github.io/editor.md/examples/simple.html
+https://currentmillis.com/
+https://mothereff.in/byte-counter
+https://www.freeformatter.com/xml-formatter.html
+https://www.freeformatter.com/java-regex-tester.html#ad-output
